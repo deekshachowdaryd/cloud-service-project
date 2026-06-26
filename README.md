@@ -128,10 +128,6 @@ MONGO_URI=your_mongodb_connection_string
 # ImageKit Private Key (Retrieved from ImageKit developer dashboard)
 IMAGEKIT_PRIVATE_KEY=your_imagekit_private_key
 ```
-
-> [!WARNING]
-> Never commit the `.env` file to version control systems like GitHub. It contains secret credentials.
-
 ---
 
 ### Step 3: Run the Application
